@@ -8,3 +8,6 @@ Dashboard:
 <img src="https://github.com/Amal4m41/DataAnalysis-Projects/blob/main/PersonalFinanceAnalysis/ss/financeDashboard_ss.png"/><br>
 Tooltips to see the timeline data w.r.t to different categories to obeserve it's pattern: 
 <img height=400 src="https://github.com/Amal4m41/DataAnalysis-Projects/blob/main/PersonalFinanceAnalysis/ss/tooltip_personalFinance.gif"/>
+
+<br>
+Reference : https://youtu.be/pqSoCa2NGj4
